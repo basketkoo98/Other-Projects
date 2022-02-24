@@ -1,1 +1,5 @@
-222
+## Titanic Prediction	
+
+Designed a model that answers and predicts ‘what sorts of people were more likely to survive?’ from the Titanic incident, using python and various machine learning methods.
+    - Made a predictive model using various classifiers (RandomForest, GradientBoosting, etc.), using passengers' age, gender, socio-economic class and other features.
+    - Reached 81% accuracy, and analyzed what kind of people are more likely to survive.
